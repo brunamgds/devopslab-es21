@@ -26,8 +26,6 @@ deploy:
   on:
       branch: main
 
-
-
 addons:
   sonarcloud:
     organization: brunamgds
